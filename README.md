@@ -29,7 +29,7 @@ Source: https://ccsds.org
 
 ## Agencies
 
-Full list of agencies can be found in [Wikipedia.org](https://en.wikipedia.org/wiki/Space_Research_and_Technology_Institute)
+Full list of agencies can be found in [Wikipedia.org](https://en.wikipedia.org/wiki/List_of_government_space_agencies#List_of_space_agencies)
 
 #### CNES
 - The Centre national d'études spatiales (France)
