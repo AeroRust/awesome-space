@@ -15,6 +15,11 @@
   - [JAXA (Japan)](#jaxa)
   - [NASA (US)](#nasa)
 - [Build your own...](#build-your-own)
+- [Crates](#crates)
+  - [Labrador-LDPC - encoding and decoding low-density parity check (LDPC) error correcting codes](#labrador-ldpc)
+  - [CCSDS Primary Header - CCSDS Primary Header impl of the Space Packet Protocol standard](#ccsds-primary-header)
+  - [NYX - astrodynamical toolkit library](#nyx)
+
 ## Organisations
 
 ### Consultative Committee for Space Data Systems (CCSDS)
@@ -66,4 +71,25 @@ Full list of agencies can be found in [Wikipedia.org](https://en.wikipedia.org/w
 
 ## Build your own...
 
+## Crates
 
+
+#### Labrador-LDPC
+A crate for encoding and decoding low-density parity check (LDPC) error correcting codes.
+
+crates.io: https://crates.io/crates/labrador-ldpc
+Type: **no_std only**
+
+#### CCSDS Primary Header
+This crate contains an implementation of the CCSDS standard called Space Packet Protocol,
+which defines a packet header called the CCSDS Primary Header.
+
+crates.io: https://crates.io/crates/ccsds_primary_header
+Type: **?**
+
+#### NYX
+Nyx is a high fidelity, fast, reliable and validated astrodynamical toolkit library written in Rust.
+Provides functionality for finding the throughput of iterators, readers, and writers.
+
+crates.io: https://crates.io/crates/nyx
+Type: **?**
