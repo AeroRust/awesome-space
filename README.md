@@ -22,6 +22,7 @@
   - [Labrador-LDPC - encoding and decoding low-density parity check (LDPC) error correcting codes](#labrador-ldpc)
   - [CCSDS Primary Header - CCSDS Primary Header impl of the Space Packet Protocol standard](#ccsds-primary-header)
   - [NYX - astrodynamical toolkit library](#nyx)
+  - [YANP - Yet Another NMEA Parser](#yanp)
 
 ## Organisations
 
@@ -110,3 +111,12 @@
   crates.io: https://crates.io/crates/nyx
 
   Type: **?**
+
+#### YANP
+  YANP - Yet Another NMEA Parser.
+  
+  A no_std Rust NMEA 0183 sentence parser.
+
+  crates.io: https://crates.io/crates/yanp
+
+  Type: **parsing + no_std**
