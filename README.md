@@ -6,6 +6,7 @@
 
 ## Table of contents
 
+##### General info
 - [Organisations](#organisations)
   - [Consultative Committee for Space Data Systems](#consultative-committee-for-space-data-systems-ccsds)
 - [Agencies (Comprehensive list of active agencies)](#agencies)
@@ -14,6 +15,9 @@
   - [ISRO (India)](#isro)
   - [JAXA (Japan)](#jaxa)
   - [NASA (US)](#nasa)
+
+##### AeroRust
+- [Companies](#companies)
 - [Videos](#videos)
 - [Orbital Index](#orbital-index)
 - [Build your own...](#build-your-own)
@@ -66,6 +70,15 @@
 - Github: https://github.com/nasa
 - Open source projects: https://opensource.gsfc.nasa.gov
 - Software projects (free and other): https://software.nasa.gov
+
+## Companies
+
+#### Kubos
+- Website: https://www.kubos.com/
+- Github: https://github.com/kubos
+
+#### Exodus Orbitals
+- Website: https://exodusorbitals.com
 
 ## Videos
 
