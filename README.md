@@ -133,3 +133,23 @@
   crates.io: https://crates.io/crates/yanp
 
   Type: **parsing + no_std**
+  
+#### BP7
+  Bundle Protocol 7 encoding/decoding library.
+  
+  A portable Work-In-Progress [impelementation](https://github.com/dtn7/bp7-rs) of the upcoming delay-tolerant networking [Bundle Protocol](https://tools.ietf.org/html/draft-ietf-dtn-bpbis-24).
+  Support for DTN (Delay-Tolerant Network) as well as IPN (InterPlanetary Network) addressing, custom canonical blocks and restricted environments such as wasm.
+
+  crates.io: https://crates.io/crates/bp7
+
+  Type: **?**
+  
+#### DTN7
+  Delay-tolerant Networking Daemon and CLI tools.
+  
+  A Work-In-Progress [impelementation](https://github.com/dtn7/dtn7-rs) of the upcoming delay-tolerant networking [standard](https://tools.ietf.org/html/draft-ietf-dtn-bpbis-24). 
+  This crate uses *BP7* to provide a dtn daemon (with routing, convergence layers, etc) and command line tools.
+
+  crates.io: https://crates.io/crates/dtn7
+
+  Type: **?**
