@@ -119,9 +119,12 @@
 
 #### NYX
   Nyx is a high fidelity, fast, reliable and validated astrodynamical toolkit library written in Rust.
-  Provides functionality for finding the throughput of iterators, readers, and writers.
 
-  crates.io: https://crates.io/crates/nyx
+  The target audience is researchers and astrodynamics engineers.
+  The rationale for using Rust is to allow for very fast computations, guaranteed thread safety,
+  and portability to all platforms supported by Rust.
+
+  crates.io: https://crates.io/crates/nyx-space
 
   Type: **?**
 
