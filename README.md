@@ -27,6 +27,8 @@
   - [CCSDS Primary Header - CCSDS Primary Header impl of the Space Packet Protocol standard](#ccsds-primary-header)
   - [NYX - astrodynamical toolkit library](#nyx)
   - [YANP - Yet Another NMEA Parser](#yanp)
+  - [BP7 - Bundle Protocol 7 encoding/decoding library](#bp7)
+  - [DTN7 - Delay-tolerant Networking Daemon and CLI tools](#dtn7)
 
 ## Organisations
 
