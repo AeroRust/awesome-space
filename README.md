@@ -127,6 +127,7 @@
   and portability to all platforms supported by Rust.
 
   crates.io: https://crates.io/crates/nyx-space
+  
   Repository: https://gitlab.com/chrisrabotin/nyx
 
   Type: **?**
