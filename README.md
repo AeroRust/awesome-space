@@ -29,7 +29,9 @@
   - [YANP - Yet Another NMEA Parser](#yanp)
   - [BP7 - Bundle Protocol 7 encoding/decoding library](#bp7)
   - [DTN7 - Delay-tolerant Networking Daemon and CLI tools](#dtn7)
-
+ - [Current State of Embedded Rust for Flight Controllers](#current-state-of-embedded-rust-for-flight-controllers)
+ 
+ 
 ## Organisations
 
 ### Consultative Committee for Space Data Systems (CCSDS)
@@ -160,3 +162,7 @@
   crates.io: https://crates.io/crates/dtn7
 
   Type: **?**
+
+## Current State of Embedded Rust for Flight Controllers
+
+https://gist.github.com/tstellanova/81c963f556522447dd007a0c3a84ebc3
