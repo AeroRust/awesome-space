@@ -22,6 +22,7 @@
 - [Orbital Index](#orbital-index)
 - [Build your own...](#build-your-own)
   - [Rover (JPL)](#rover)
+  - [Ground station (NyanSat)](#ground-station)
 - [Crates](#crates)
   - [Labrador-LDPC - encoding and decoding low-density parity check (LDPC) error correcting codes](#labrador-ldpc)
   - [CCSDS Primary Header - CCSDS Primary Header impl of the Space Packet Protocol standard](#ccsds-primary-header)
@@ -102,6 +103,11 @@
   JPL's (Jet Propulsion Laboratory) Open Source Build-It-Yourself Rover
 
   - Website: https://opensourcerover.jpl.nasa.gov/
+
+#### Ground station
+  NyanSat is a guided challenge that walks you through building your own ground station to track satellites, receiving signals, understanding how data is encoded, and looking at images from space.
+
+  - Website: https://nyan-sat.com/
 
 ## Crates
 
