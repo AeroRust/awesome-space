@@ -78,22 +78,29 @@ List of all AeroRust videos/talks can be found in this playlist: https://www.you
   crates.io: https://crates.io/crates/nmea
   Wikipedia: https://en.wikipedia.org/wiki/NMEA_0183
 
+  Type: **parser + no_std**
+
 #### arsdk-rs
 
-  SDK for https://parrot.com drones
+  SDK (Software development kit) for https://parrot.com drones
 
   Repository: https://github.com/AeroRust/arsdk-rs
   Parrot: https://parrot.com
 
+  Type: **SDK**
+
 #### Splice
 
-  Splice is a DSL for Software-Defined Satellite Applications
+  Splice is a DSL (Domain-specific language) for Software-Defined Satellite Applications
 
   Repository: https://github.com/AeroRust/splice
+
+  Type: **DSL**
 
 ### _Other crates_
 
 #### yaiouom
+
   Extensible, strongly-typed units of measure, with a custom type system (based on F#'s unit of measures) implemented as a linter.
 
   This crate implements a mechanism of units of measure. It may be used to manipulate all sorts of measures, including physics/engineering (m, kg, s, A, m * s ^ 1, ...), currencies (EUR, USD, ...), statistics (dollars per barrel, engineers per lightbulb, dollars per household per year, ...)
@@ -138,7 +145,7 @@ List of all AeroRust videos/talks can be found in this playlist: https://www.you
 
   crates.io: https://crates.io/crates/yanp
 
-  Type: **parsing + no_std**
+  Type: **parser + no_std**
 
 #### BP7
   Bundle Protocol 7 encoding/decoding library.
