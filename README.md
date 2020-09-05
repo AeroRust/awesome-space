@@ -6,7 +6,7 @@ Feel free to open PR to add additional links and resources (including your own c
 
 #### Table of contents
 
-##### [AeroRust resources](#aerorust-resources)
+##### [AeroRust resources](#aerorust-resources-1)
 - [Companies](#companies)
 - [Videos](#videos)
 - [Crates](#crates)
@@ -25,11 +25,11 @@ Feel free to open PR to add additional links and resources (including your own c
   - [YANP - Yet Another NMEA Parser](#yanp)
   - [BP7 - Bundle Protocol 7 encoding/decoding library](#bp7)
   - [DTN7 - Delay-tolerant Networking Daemon and CLI tools](#dtn7)
-- [Other resources](#other-resources)
+- Other resources
   - [Units of Measure in Rust with Refinement Types](#units-of-measure-in-rust-with-refinement-types)
   - [Current State of Embedded Rust for Flight Controllers](#current-state-of-embedded-rust-for-flight-controllers)
 
-##### Aerospace resources
+##### [Aerospace resources](#aerospace-resources-1)
 
 - [Orbital Index](#orbital-index)
 - [Build your own...](#build-your-own)
@@ -57,7 +57,7 @@ Feel free to open PR to add additional links and resources (including your own c
 
 ### Videos
 
-List of all AeroRust videos can be found in this playlist: https://www.youtube.com/playlist?list=PLXz6wWXh9PiRWhTMz70ulVwTAWki_ELs4
+List of all AeroRust videos/talks can be found in this playlist: https://www.youtube.com/playlist?list=PLXz6wWXh9PiRWhTMz70ulVwTAWki_ELs4
 
 - [Drone Control - Controlling a drone using Rust over WiFi (`arsdk-rs` crate)](https://www.youtube.com/watch?v=e2mJq9qm_Io)
 ---
@@ -174,6 +174,23 @@ https://gist.github.com/tstellanova/81c963f556522447dd007a0c3a84ebc3
 
 ## Aerospace resources
 
+### Orbital Index
+
+- Website: https://orbitalindex.com
+- [awesome-space list](https://github.com/orbitalindex/awesome-space)
+
+### Build your own...
+
+#### Rover
+  JPL's (Jet Propulsion Laboratory) Open Source Build-It-Yourself Rover
+
+  - Website: https://opensourcerover.jpl.nasa.gov/
+
+#### Ground station
+  NyanSat is a guided challenge that walks you through building your own ground station to track satellites, receiving signals, understanding how data is encoded, and looking at images from space.
+
+  - Website: https://nyan-sat.com/
+
 ### Organisations
 
 #### Consultative Committee for Space Data Systems (CCSDS)
@@ -215,22 +232,4 @@ https://gist.github.com/tstellanova/81c963f556522447dd007a0c3a84ebc3
 - Github: https://github.com/nasa
 - Open source projects: https://opensource.gsfc.nasa.gov
 - Software projects (free and other): https://software.nasa.gov
-
-### Orbital Index
-
-- Website: https://orbitalindex.com
-- [awesome-space list](https://github.com/orbitalindex/awesome-space)
-
-### Build your own...
-
-#### Rover
-  JPL's (Jet Propulsion Laboratory) Open Source Build-It-Yourself Rover
-
-  - Website: https://opensourcerover.jpl.nasa.gov/
-
-#### Ground station
-  NyanSat is a guided challenge that walks you through building your own ground station to track satellites, receiving signals, understanding how data is encoded, and looking at images from space.
-
-  - Website: https://nyan-sat.com/
-
 
