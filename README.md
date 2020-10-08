@@ -150,7 +150,7 @@ List of all AeroRust videos/talks can be found in this playlist: https://www.you
 #### BP7
   Bundle Protocol 7 encoding/decoding library.
 
-  A portable Work-In-Progress [impelementation](https://github.com/dtn7/bp7-rs) of the upcoming delay-tolerant networking [Bundle Protocol](https://tools.ietf.org/html/draft-ietf-dtn-bpbis-24).
+  A portable Work-In-Progress [implementation](https://github.com/dtn7/bp7-rs) of the upcoming delay-tolerant networking [Bundle Protocol](https://tools.ietf.org/html/draft-ietf-dtn-bpbis-24).
   Support for DTN (Delay-Tolerant Network) as well as IPN (InterPlanetary Network) addressing, custom canonical blocks and restricted environments such as wasm.
 
   crates.io: https://crates.io/crates/bp7
