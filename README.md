@@ -115,6 +115,8 @@ List of all AeroRust videos/talks can be found in this playlist: https://www.you
 
   crates.io: https://crates.io/crates/labrador-ldpc
 
+  Repository: https://github.com/adamgreig/labrador-ldpc
+
   Type: **no_std only**
 
 #### CCSDS Primary Header
@@ -122,6 +124,8 @@ List of all AeroRust videos/talks can be found in this playlist: https://www.you
   which defines a packet header called the CCSDS Primary Header.
 
   crates.io: https://crates.io/crates/ccsds_primary_header
+
+  Repository: https://github.com/nsmryan/ccsds_primary_header
 
   Type: **?**
 
@@ -145,6 +149,8 @@ List of all AeroRust videos/talks can be found in this playlist: https://www.you
 
   crates.io: https://crates.io/crates/yanp
 
+  Repository: https://github.com/hargoniX/yanp
+
   Type: **parser + no_std**
 
 #### BP7
@@ -155,6 +161,8 @@ List of all AeroRust videos/talks can be found in this playlist: https://www.you
 
   crates.io: https://crates.io/crates/bp7
 
+  Repository: https://github.com/dtn7/bp7-rs
+
   Type: **?**
 
 #### DTN7
@@ -164,6 +172,8 @@ List of all AeroRust videos/talks can be found in this playlist: https://www.you
   This crate uses *BP7* to provide a dtn daemon (with routing, convergence layers, etc) and command line tools.
 
   crates.io: https://crates.io/crates/dtn7
+
+  Repository: https://github.com/dtn7/dtn7-rs
 
   Type: **?**
 
